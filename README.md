@@ -311,3 +311,4 @@ Vite Documentation
 FastAPI Documentation
 Tailwind CSS Documentation
 
+[AI_FactCheck_Project_Instructions_Clean.pdf](https://github.com/user-attachments/files/20637253/AI_FactCheck_Project_Instructions_Clean.pdf)
